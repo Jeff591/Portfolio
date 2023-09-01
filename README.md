@@ -1,5 +1,8 @@
 # Portfolio
 This is a collection of the projects that Jeffrey Hata has worked on.
+  - Qualcomm Institute Cyber-Archeology Warehouse
+    - This is a Unreal Engine project developed at Qualcomm Institute with the goal of helping students and researchers store artifact models in remote repositories like Sketchfab and SeaweedFS so that they can be later imported for study into digital classrooms at runtime. Users will be able to upload new models, update model metadata, filter through models, and preview models via a Web UI display in Unreal. With this software, academics will be able to study artifacts and archeological sites while preserving the original items.
+    - [https://ivc.ucsd.edu/cyberarchwarehouse/](https://ivc.ucsd.edu/cyberarchwarehouse/)   
   - CS100 Final Project - Down With The System
     - This is a text-based RPG created during Fall 2021 in CS100 at UCR by Jeffrey Hata, Cameron Fong, Nathan Wong and Pedro Gonzalez. It has various gameplay mechanics including turn-based battles, shopping, inventory management, and equipment stats.
     - [https://github.com/Jeff591/CS100FinalProject-DownWithTheSystem](https://github.com/Jeff591/CS100FinalProject-DownWithTheSystem)
